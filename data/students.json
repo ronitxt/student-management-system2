@@ -1,0 +1,52 @@
+[
+  {
+    "id": "STU-1001",
+    "name": "Aarav Sharma",
+    "rollNumber": "23CS001",
+    "email": "aarav.sharma@example.edu",
+    "department": "Computer Science",
+    "year": "3rd Year",
+    "phone": "+91 98765 43210",
+    "createdAt": "2026-11-18"
+  },
+  {
+    "id": "STU-1002",
+    "name": "Diya Patel",
+    "rollNumber": "23EC014",
+    "email": "diya.patel@example.edu",
+    "department": "Electronics",
+    "year": "3rd Year",
+    "phone": "+91 98765 12340",
+    "createdAt": "2026-11-17"
+  },
+  {
+    "id": "STU-1003",
+    "name": "Ishaan Das",
+    "rollNumber": "24ME008",
+    "email": "ishaan.das@example.edu",
+    "department": "Mechanical",
+    "year": "2nd Year",
+    "phone": "+91 98765 99887",
+    "createdAt": "2026-11-15"
+  },
+  {
+    "id": "STU-1004",
+    "name": "Meera Nair",
+    "rollNumber": "22CS027",
+    "email": "meera.nair@example.edu",
+    "department": "Computer Science",
+    "year": "4th Year",
+    "phone": "+91 98765 88776",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "STU-1005",
+    "name": "Kabir Singh",
+    "rollNumber": "24CE019",
+    "email": "kabir.singh@example.edu",
+    "department": "Civil",
+    "year": "2nd Year",
+    "phone": "+91 98765 66554",
+    "createdAt": "2026-11-10"
+  }
+]
