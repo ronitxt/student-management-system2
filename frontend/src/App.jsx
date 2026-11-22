@@ -1,6 +1,6 @@
 import React,{useEffect,useMemo,useState} from 'react'
 import {GraduationCap,Users,Search,Plus,Pencil,Trash2,Eye,Download,Building2,X,Menu,SlidersHorizontal,Bell,BookOpen,Settings} from 'lucide-react'
-const API='http://localhost:8080/api'
+const API='/api'
 const seed=[
 {id:'STU-1001',name:'Aarav Sharma',rollNumber:'23CS001',email:'aarav.sharma@example.edu',department:'Computer Science',year:'3rd Year',phone:'+91 98765 43210'},
 {id:'STU-1002',name:'Diya Patel',rollNumber:'23EC014',email:'diya.patel@example.edu',department:'Electronics',year:'3rd Year',phone:'+91 98765 12340'},
